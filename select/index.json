@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "The Middle",
+  "base_artist": "Zedd, Maren Morris, & Grey",
+  "createdAt": "2026-03-11T04:17:05.044988Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lost in the Middle of Nowhere",
+      "artist": "Kane Brown feat. Becky G",
+      "has_synced": true,
+      "path": "select/01_Lost_in_the_Middle_of_Nowhere_Kane_Brown_feat._Becky_G.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lost in the Middle of Nowhere (feat. Becky G)",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/02_Lost_in_the_Middle_of_Nowhere_(feat._Becky_G)_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Meet in the Middle",
+      "artist": "Diamond Rio",
+      "has_synced": true,
+      "path": "select/03_Meet_in_the_Middle_Diamond_Rio.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Out in the Middle",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/04_Out_in_the_Middle_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Out In The Middle",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/05_Out_In_The_Middle_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stuck In The Middle",
+      "artist": "MIKA",
+      "has_synced": true,
+      "path": "select/06_Stuck_In_The_Middle_MIKA.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In The Middle (I Met You There) [feat. Jonny Pierce]",
+      "artist": "Matthew Dear feat. Jonny Pierce",
+      "has_synced": false,
+      "path": "select/07_In_The_Middle_(I_Met_You_There)_[feat._Jonny_Pierce]_Matthew_Dear_feat._Jonny_Pierce.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "In The Middle (I Met You There) (feat. Jonny Pierce)",
+      "artist": "Matthew Dear",
+      "has_synced": false,
+      "path": "select/08_In_The_Middle_(I_Met_You_There)_(feat._Jonny_Pierce)_Matthew_Dear.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Middle Is Gone",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/09_The_Middle_Is_Gone_Moby.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Drop Me In The Middle",
+      "artist": "Natasha Bedingfield",
+      "has_synced": true,
+      "path": "select/10_Drop_Me_In_The_Middle_Natasha_Bedingfield.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Drop Me In The Middle (Feat Estelle)",
+      "artist": "Natasha Bedingfield",
+      "has_synced": true,
+      "path": "select/11_Drop_Me_In_The_Middle_(Feat_Estelle)_Natasha_Bedingfield.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Left of the Middle",
+      "artist": "Natalie Imbruglia",
+      "has_synced": true,
+      "path": "select/12_Left_of_the_Middle_Natalie_Imbruglia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Middle",
+      "artist": "Zedd, Maren Morris & Grey",
+      "has_synced": false,
+      "path": "select/pl_01_The_Middle_Zedd,_Maren_Morris_&_Grey.txt"
+    }
+  ]
+}
